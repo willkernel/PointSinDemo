@@ -5,3 +5,10 @@ ValueAnimator
     <source id="mp4" src="https://github.com/willkernel/PointSinDemo/blob/master/screenVideo.mp4" type="video/mp4">
 </video>
 
+<iframe 
+    height=450 
+    width=800 
+    src="https://github.com/willkernel/PointSinDemo/blob/master/screenVideo.mp4" 
+    frameborder=0 
+    allowfullscreen>
+</iframe>
